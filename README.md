@@ -24,21 +24,22 @@ To run this project locally:
    cd text-to-speech-converter
 3. Open index.html in your browser to start using the converter.
 
-
-
-
-
 Usage
 
 1.Open the project in your browser.
+<br>
 2.Enter your text in the provided input field or textarea.
+<br>
 3.Select a voice from the dropdown menu.
+<br>
 4.Click the "Listen" button to hear the text spoken aloud.
 
 Technologies Used
 
 HTML: For structuring the content.
+<br>
 CSS: For styling the user interface.
+<br>
 JavaScript: For implementing the text-to-speech functionality using the Web Speech API.
 
 Contributing
@@ -50,4 +51,5 @@ Contact
 If you have any questions or feedback, feel free to reach out to me:
 
 Name: Keshav Maheshwari
+<br>
 Email: keshav.maheshwari707@gmail.com
