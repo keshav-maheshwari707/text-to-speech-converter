@@ -4,7 +4,8 @@ Welcome to the text-to-speech-converter repository! This project allows users to
 
 Demo
 
-![Untitled video - Made with Clipchamp](https://github.com/user-attachments/assets/1e666c6a-29a5-4126-b041-3b71e0e31ef6)
+https://github.com/user-attachments/assets/1e18ebaa-518c-4cb4-822c-b458640391ed
+
 
 Features
 
@@ -15,12 +16,17 @@ Features
 Installation
 
 To run this project locally:
-
 1. Clone the repository:
+   <br>
    git clone https://github.com/keshav-maheshwari707/text-to-speech-converter.git
 2. Navigate to the project directory:
+   <br>
    cd text-to-speech-converter
 3. Open index.html in your browser to start using the converter.
+
+
+
+
 
 Usage
 
