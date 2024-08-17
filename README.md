@@ -1,4 +1,4 @@
-Text-to-Speech Converter
+#Text-to-Speech Converter
 
 Welcome to the text-to-speech-converter repository! This project allows users to input text and listen to it using different selectable voices. It's built using HTML5, CSS3 and JavaScript leveraging the Web Speech API.
 
